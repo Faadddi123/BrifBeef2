@@ -86,10 +86,15 @@ justify-content: space-between;
 
   padding: 1.5rem;
 }
-.ktaba2{
-  position: absolute;
-  z-index: -1;
+.tswira1{
+  transition: 2s; 
+  overflow: hidden;
   
+
+}
+.tswira1:hover{
+  margin-left: -50%;
+  transition: 2s;
 }
 .tswira2{
   transition: 2s; 
@@ -100,10 +105,14 @@ justify-content: space-between;
   margin-left: 50%;
   transition: 2s; 
 }
-.tswiraa1{
-  top: 70.39%;
+.ktaba2{
+  padding-Left: 1%;
   position: absolute;
+  z-index: -1;
+  
 }
+
+
 .tswiraa1:hover{
   
   margin-left: 10%;
