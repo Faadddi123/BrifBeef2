@@ -86,6 +86,30 @@ justify-content: space-between;
 
   padding: 1.5rem;
 }
+.ktaba2{
+  position: absolute;
+  z-index: -1;
+  
+}
+.tswira2{
+  transition: 2s; 
+  overflow: hidden; 
+}
+.tswira2:hover{
+   
+  margin-left: 50%;
+  transition: 2s; 
+}
+.tswiraa1{
+  top: 70.39%;
+  position: absolute;
+}
+.tswiraa1:hover{
+  
+  margin-left: 10%;
+  transition: 2s;
+
+}
 .sac{
   display: flex;
 }
@@ -101,10 +125,8 @@ justify-content: space-between;
   margin-bottom: 10%;
 }
 .yassar{
-  
   position: relative;
   width: 70%;
-
 }
 .fo9{
   display: flex;
