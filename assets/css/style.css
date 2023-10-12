@@ -1,0 +1,253 @@
+:root{
+  --padding-sport: 62% 0%   0%  0%;
+}
+body{
+  color: white;
+  background-color: black;
+
+  font-family: "Inter";
+
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+
+.dakshi-li-majmo3-fih-kolshi{
+  padding:  2% 10%;
+  display: flex;  
+justify-content: space-between;
+}
+
+.dakshi-li-majmo3-fih-kolshi .lim3a-logo{
+  display: flex;
+
+}
+.lim3a-logo a{
+  margin-right: 10%;
+}
+.iwa{
+  width: 30%;
+ 
+  margin-left: 10% ;  
+  margin-top: 6% ;  
+}
+.iwaywa{
+  position: absolute;
+  display: flex;  
+  height:  90%;
+ top: 19%;
+ right: -3%;
+}
+.awili{
+  position: absolute;
+  display: flex;  
+  height: 90%;
+ top: 60%;
+ left: -3%;  
+}
+.Big-title{
+  font-family: "Playfair Display";
+  z-index: 2;
+  position: absolute;
+  display: flex; 
+  left: 14%; 
+  text-overflow: clip;
+  font-size: 300px;
+}
+.salut-zin{
+
+  z-index: 3; position: absolute; left: 47%; top: 130%;font-size: 35px;color: black;background-color: white;border: none;
+  transition: 500ms;
+}
+.salut-zin:hover{
+  font-size: 120px;
+  color: rgb(255, 255, 255);background-color: rgb(0, 0, 0);transition: 500ms;
+  
+}
+
+.sport{
+      padding: var(--padding-sport);
+      top :62%
+}
+.portfolio{
+  font-family: "Playfair Display", serif;
+
+  font-size: 60px;
+  margin-bottom: 10%;
+}
+
+.tsawer{
+ flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+}
+.port-element{
+
+  padding: 1.5rem;
+}
+.sac{
+  display: flex;
+}
+.text{
+  font-size: 35px;
+  -webkit-text-size-adjust: 100%;
+  margin-right: 7%;
+}
+.testimoniii{
+  
+ 
+  display: flex;
+  margin-bottom: 10%;
+}
+.yassar{
+  
+  position: relative;
+  width: 70%;
+
+}
+.fo9{
+  display: flex;
+  background-color: #181818;
+  margin-left: 1%;
+  margin-right: -4%;
+  text-align: left;  
+}
+.ta7t{
+  display: flex;
+  margin-top: 5%;
+  background-color: #181818;
+  margin-right: -4%;
+  margin-left: 1%;
+  text-align: right;  
+}
+.yammine{
+  
+  
+  display: flex;
+}
+.da7ka{
+  height: 655px;
+  width: 72.335%;
+  background-color:#181818;
+}
+.ktaba-dial-da7ka{
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: left;
+  font-family: "Inter";
+  font-size: 35px;
+}
+.sghira-dial-ktaba{
+  margin-top: 5%;
+  margin-bottom: 10%;
+  font-size: 15px;
+}
+.chi7aja{
+  font-size: 18px;
+  text-align: left;
+  
+ 
+}
+.new-button{
+  font-size: 35px;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  border:5px solid;
+  
+  border-color: white;
+  transition: 1s;
+}
+.new-button:hover{
+  font-size: 50px;
+  background-color: white;
+  color: black ;
+  border:0px solid;
+  border-radius: 50px;
+  border-color: black;
+  transition: 1s;
+}
+.contact-moi{
+  padding-left: 20%;
+  padding-right: 20%;
+  
+}
+.contact-type{
+  font-family: "Inter" ;
+  font-size: 30px;
+}
+.name-diali{
+  margin-right: 10%;
+}
+.email-diali{
+  margin-right: 10%;
+}
+.message-kbir{
+  
+  margin-right: 10%;
+
+}
+.blassa-name{
+  background-color: black;
+  color: white;
+}
+.blassa-email{
+  background-color: black;
+  color: whit
+}
+.blassa-message{
+  background-color: black;
+  color: whit
+}
+label{
+  
+
+  font-size: 35px;
+  margin-top: 5%;
+
+}
+input[type = "text"]{
+  font-size: 20px;
+  border : none;
+  border-bottom: 3px solid;
+  border-color: white;
+
+  background-color: black;
+  width: 1000px;
+  height: 50px;
+  margin-bottom: 2% ;
+}
+textarea{
+  font-size: 20px;
+  color: white;
+  border : none;
+  border-bottom: 3px solid;
+  border-color: white;
+  background-color: black;
+  width: 1000px;
+  height: 250px;
+  margin-bottom: 10% ;
+}
+
+.new-button2{
+  font-size: 35px;
+  
+  background-color: white;
+  color: black ;
+  border:5px solid;
+  
+  border-color: white;
+  transition: 1s;
+}
+.new-button2:hover{
+  font-size: 50px;
+  background-color: black;
+  color: white;
+  border:0px solid;
+  border-radius: 50px;
+  border-color: black;
+  transition: 1s;
+  
+}
+
