@@ -93,8 +93,10 @@ justify-content: space-between;
 
 }
 .tswira1:hover{
+  overflow: hidden;
   margin-left: -50%;
   transition: 2s;
+  
 }
 .tswira2{
   transition: 2s; 
@@ -105,7 +107,13 @@ justify-content: space-between;
   margin-left: 50%;
   transition: 2s; 
 }
-.ktaba2{
+.tswira5{
+  margin-top: -34%;
+}
+.tswira4{
+  margin-top: -64%;
+}
+.ktaba{
   padding-Left: 1%;
   position: absolute;
   z-index: -1;
