@@ -33,6 +33,7 @@ justify-content: space-between;
   margin-top: 6% ;  
 }
 .iwaywa{
+
   position: absolute;
   display: flex;  
   height:  90%;
@@ -68,7 +69,7 @@ justify-content: space-between;
 
 .sport{
       padding: var(--padding-sport);
-      top :62%
+      top :65%
 }
 .portfolio{
   font-family: "Playfair Display", serif;
