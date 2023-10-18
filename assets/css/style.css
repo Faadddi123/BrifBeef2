@@ -56,14 +56,15 @@ justify-content: space-between;
   text-overflow: clip;
   font-size: 300px;
 }
-.salut-zin{
+.anime-titre{
 
   z-index: 3; position: absolute; left: 47%; top: 130%;font-size: 35px;color: black;background-color: white;border: none;
-  transition: 500ms;
+  transition: 10s;
 }
-.salut-zin:hover{
+.anime-titre:hover{
+  
   font-size: 120px;
-  color: rgb(255, 255, 255);background-color: rgb(0, 0, 0);transition: 500ms;
+  color: rgb(255, 255, 255);background-color: rgb(0, 0, 0);transition: 5s;
   
 }
 
