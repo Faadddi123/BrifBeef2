@@ -59,12 +59,12 @@ justify-content: space-between;
 .anime-titre{
 
   z-index: 3; position: absolute; left: 47%; top: 130%;font-size: 35px;color: black;background-color: white;border: none;
-  transition: 10s;
+  transition: 500ms;
 }
 .anime-titre:hover{
   
   font-size: 120px;
-  color: rgb(255, 255, 255);background-color: rgb(0, 0, 0);transition: 5s;
+  color: rgb(255, 255, 255);background-color: rgb(0, 0, 0);transition: 500ms;
   
 }
 
@@ -198,7 +198,7 @@ justify-content: space-between;
   border:5px solid;
   
   border-color: white;
-  transition: 1s;
+  transition: 200ms;
 }
 .new-button:hover{
   font-size: 50px;
@@ -207,7 +207,7 @@ justify-content: space-between;
   border:0px solid;
   border-radius: 50px;
   border-color: black;
-  transition: 1s;
+  transition: 200ms;
 }
 .contact-moi{
   padding-left: 20%;
@@ -272,6 +272,7 @@ textarea{
 }
 
 .new-button2{
+  
   font-size: 35px;
   
   background-color: white;
