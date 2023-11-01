@@ -74,7 +74,7 @@ justify-content: space-between;
 }
 .portfolio{
   font-family: "Playfair Display", serif;
-
+  text-align: center;
   font-size: 60px;
   margin-bottom: 10%;
 }
@@ -291,5 +291,8 @@ textarea{
   border-color: black;
   transition: 1s;
   
+}
+.someelem{
+  text-align: center;
 }
 
